@@ -1,7 +1,10 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chemseddine Bouzidy</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-
+<p align="left">
+I’m a passionate Full Stack Developer with a versatile skill set covering both frontend (HTML5, CSS3, Tailwind, React, React Native) and backend (Laravel, Node.js, Firebase, MySQL) development. I specialize in crafting sleek user interfaces, building secure APIs (JWT), and developing high-performance applications using modern frameworks like Vite and Expo.
+With a strong eye for design (Figma, Canva) and a solid foundation in data modeling (MCD analysis), I can handle end-to-end development — from the specifications phase to deployment (Netlify, Apache, GitHub). I prioritize user experience, accessibility, and clean, maintainable code.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemseddine&label=Profile%20views&color=0e75b6&style=flat" alt="chemseddine" /> </p>
 
 
