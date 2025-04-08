@@ -2,8 +2,23 @@
 <h1 align="center">Hi 👋, I'm Chemseddine Bouzidy</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <p align="left">
-I’m a passionate Full Stack Developer with a versatile skill set covering both frontend (HTML5, CSS3, Tailwind, React, React Native) and backend (Laravel, Node.js, Firebase, MySQL) development. I specialize in crafting sleek user interfaces, building secure APIs (JWT), and developing high-performance applications using modern frameworks like Vite and Expo.
+I'm a passionate Full Stack Developer with a versatile skill set covering both frontend (HTML5, CSS3, Tailwind, React, React Native) and backend (Laravel, Node.js, Firebase, MySQL) development. I specialize in crafting sleek user interfaces, building secure APIs (JWT), and developing high-performance applications using modern frameworks like Vite and Expo.
+
 With a strong eye for design (Figma, Canva) and a solid foundation in data modeling (MCD analysis), I can handle end-to-end development — from the specifications phase to deployment (Netlify, Apache, GitHub). I prioritize user experience, accessibility, and clean, maintainable code.
+
+🔗 Portfolio: chemseddinebouzidy.netlify.app
+💼 LinkedIn: linkedin.com/in/chemseddine-bouzidy-560886228
+📧 Email: chemseddinebouzidy@gmail.com
+
+Développeur Full Stack passionné, je maîtrise une large palette de technologies web et mobiles, allant de l’intégration frontend (HTML5, CSS3, Tailwind, React, React Native) au développement backend (Laravel, Node.js, Firebase, MySQL). J’ai acquis une solide expérience dans la conception d’interfaces utilisateur modernes, la création d’API sécurisées (JWT), et le développement d’applications performantes avec des frameworks récents comme Vite et Expo.
+
+Doté d’un bon sens du design (Figma, Canva) et d’une approche analytique (modélisation MCD), je suis capable de prendre en charge un projet du cahier des charges jusqu’à la mise en production (Netlify, Apache, GitHub). J’accorde une attention particulière à l’expérience utilisateur, à l’accessibilité, et à la qualité du code.
+
+🔗 Portfolio : chemseddinebouzidy.netlify.app
+💼 LinkedIn : linkedin.com/in/chemseddine-bouzidy-560886228
+📧 Email : chemseddinebouzidy@gmail.com
+
+
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemseddine&label=Profile%20views&color=0e75b6&style=flat" alt="chemseddine" /> </p>
 
