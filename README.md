@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Chemseddine Bouzidy</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack developer from Morocco</h3>
 <p align="left">
 I'm a passionate Full Stack Developer with a versatile skill set covering both frontend (HTML5, CSS3, Tailwind, React, React Native) and backend (Laravel, Node.js, Firebase, MySQL) development. I specialize in crafting sleek user interfaces, building secure APIs (JWT), and developing high-performance applications using modern frameworks like Vite and Expo.
 
