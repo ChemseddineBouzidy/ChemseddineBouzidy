@@ -10,7 +10,7 @@ With a strong eye for design (Figma, Canva) and a solid foundation in data model
 <!--  Développeur Full Stack passionné, je maîtrise une large palette de technologies web et mobiles, allant de l’intégration frontend (HTML5, CSS3, Tailwind, React, React Native) au développement backend (Laravel, Node.js, Firebase, MySQL). J’ai acquis une solide expérience dans la conception d’interfaces utilisateur modernes, la création d’API sécurisées (JWT), et le développement d’applications performantes avec des frameworks récents comme Vite et Expo.
 
 Doté d’un bon sens du design (Figma, Canva) et d’une approche analytique (modélisation MCD), je suis capable de prendre en charge un projet du cahier des charges jusqu’à la mise en production (Netlify, Apache, GitHub). J’accorde une attention particulière à l’expérience utilisateur, à l’accessibilité, et à la qualité du code.
-🔗 Portfolio: chemseddinebouzidy.netlify.app
+🔗 Portfolio: https://chemseddinebouzidy.tech/
 💼 LinkedIn: linkedin.com/in/chemseddine-bouzidy-560886228
 📧 Email: chemseddinebouzidy@gmail.com 
 
